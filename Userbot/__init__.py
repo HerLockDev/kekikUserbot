@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 from KekikTaban import KekikTaban
 
 taban = KekikTaban(
-    baslik   = "@KekikAkademi Userbot",
-    aciklama = "kekikUserbot Başlatıldı..",
-    banner   = "kekikUserbot",
+    baslik   = "Herlock Userbot",
+    aciklama = "HerlockUserbot Başlatıldı..",
+    banner   = "HerlockUserbot",
     girinti  = 1
 )
 
